@@ -7,3 +7,4 @@ total_amount = (tip/100 * bill) + bill
 after_split = total_amount/people
 
 print(f"Your total amount is ${total_amount} and each person owes ${after_split}")
+#
